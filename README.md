@@ -1,4 +1,4 @@
-# Code for the paper: Adversarial Machine Learning: Bayesian Perspectives
+# Code for the paper: Protecting Classifiers from Attacks
 
 This repository contains code for reproducing the experiments in the **Protecting Classifiers from Attacks** paper.
 
